@@ -1,0 +1,6 @@
+framework module Pods_RunKitDemo_RunKitDemoUITests {
+  umbrella header "Pods-RunKitDemo-RunKitDemoUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - RunKit (0.0.1)
+
+DEPENDENCIES:
+  - RunKit (from `../`)
+
+EXTERNAL SOURCES:
+  RunKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  RunKit: b38781d371e470798f1197842c0e42dacdc899f8
+
+PODFILE CHECKSUM: a529b4b80cc8ebf08ac211fa14665597b15b599d
+
+COCOAPODS: 1.8.4
